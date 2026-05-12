@@ -2,7 +2,7 @@
 
 ## Uma aplicação web dinâmica desenvolvida para gerenciar produtos de uma loja de games. Este projeto foi construído para praticar operações de CRUD (Create, Read, Update, Delete) utilizando PHP, autenticação de sessões e integração com banco de dados MySQL via PDO.
 
-#📝 Sobre o Projeto
+## 📝 Sobre o Projeto
 
 ## O sistema Blum permite o controle total de um inventário de produtos. O administrador pode cadastrar novos itens, editar informações existentes, visualizar a lista completa e excluir produtos, tudo protegido por um sistema de login seguro.
 
