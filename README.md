@@ -28,7 +28,7 @@ Tailwind CSS: Framework utilitário para estilização rápida e responsiva.
 
 JavaScript: Utilizado para confirmações de ações críticas (como exclusão).
 
-#📂 Estrutura de Arquivos
+## 📂 Estrutura de Arquivos
 
 index.php: Tela de login inicial.
 
