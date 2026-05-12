@@ -47,6 +47,12 @@ conexao.php: Configuração central da conexão PDO.
 ## Previos
 
 
+
+
+
+
+
+
 1 Clone este repositório: 
 
 ``bash``
